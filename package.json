@@ -9,10 +9,19 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@expo/webpack-config": "^0.17.0",
+    "anonymous-files": "^1.0.1",
     "expo": "~46.0.16",
+    "expo-image-picker": "~13.3.1",
+    "expo-sharing": "~10.3.0",
     "expo-status-bar": "~1.4.0",
+    "link": "^1.5.1",
     "react": "18.0.0",
-    "react-native": "0.69.6"
+    "react-dom": "18.0.0",
+    "react-native": "^0.69.6",
+    "react-native-image-picker": "^4.10.0",
+    "react-native-web": "~0.18.7",
+    "expo-updates": "~0.14.6"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
